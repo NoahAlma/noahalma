@@ -8,3 +8,7 @@ JavaScript
 HTML
 CSS
 
+Current projects:<br>
+<a href="https://github.com/noahalma/JSONCord">JSONCord</a><br>
+<a href="https://github.com/noahalma/Customizable-login-site">Random website</a>
+
