@@ -2,13 +2,13 @@
 
 East coast based student who enjoys development as a hobby
 
-NodeJS
-MD
-JavaScript
-HTML
-CSS
+NodeJS<br>
+MD<br>
+JavaScript<br>
+HTML<br>
+CSS<br>
 
-Current projects:<br>
+Current projects:<br><br>
 <a href="https://github.com/noahalma/JSONCord">JSONCord</a><br>
 <a href="https://github.com/noahalma/Customizable-login-site">Random website</a>
 
