@@ -5,6 +5,6 @@
 I'm an ITI student passionate about writing code and creating websites!
 
 - 🔭 I’m currently an ITI student at Rutgers University 
-- 📚 I’m currently learning development skills like Node.js
+- 📚 JavaScript (including Node.JS), Java, Python, HTML, CSS
 - 📫 How to reach me: [Rutgers email](mailto:n.h@rutgers.edu) || [Personal email](mailto:noah@alma.com)
 
